@@ -1,20 +1,18 @@
-<h1>👋 Hola, soy Rodrigo Pereira</h1> 
-<section style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1;">
-    <h3>🚀 Sobre mí</h3>
-    🎓 Técnico en Desarrollo Web egresado de la Universidad Nacional de La Matanza (2024).<br>
-    💻 <strong>Full Stack Developer</strong> con experiencia en <strong>React, Angular, Node.js, Java y .NET</strong>.<br>
-    💡 Apasionado por el desarrollo de software (back-end), bases de datos y diseño de soluciones web.<br><br>
-    ✉️ Podés contactarme en <strong>rodrigo.pereira@outlook.es</strong> o en mi 
-    <a href="https://www.linkedin.com/in/rodrigonicpereira" target="_blank"><strong>Linkedin</strong></a>
-  </div>
+# 👋 Hola, soy Rodrigo Pereira
+## 🚀 Sobre mí
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1rMGN6NTd1aXB5bzE5OXU1MTc3dTZxbGlkYTU5MjQ5NG9sMmRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</a>
 
-  <div style="flex: 1; text-align: right;">
-    <img height="200em"
-      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1rMGN6NTd1aXB5bzE5OXU1MTc3dTZxbGlkYTU5MjQ5NG9sMmRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
-      alt="gif animado" />
-  </div>
-</section>
+<br>
+
+- 🎓Técnico en Desarrollo Web egresado de la Universidad Nacional de La Matanza(2024).
+
+- 💻 <strong>Full Stack Developer</strong> con experiencia en <strong>React, Angular, Node.js, Java <br> y .NET </strong>
+
+- 💡 Apasionado por el desarrollo de software (back-end), bases de datos y <br> diseño de soluciones.
+
+- 📝 Podes ver mi [**CV**](https://drive.google.com/file/d/1tWHmxpAz8Jfz1B-NkxF6U3rNkeubIvPG/view?usp=sharing), ademas contactarme en <strong>rodrigo.pereira@outlook.es</strong><br> o en mi [**Linkedin**](https://www.linkedin.com/in/rodrigonicpereira)
 
 ---
 

@@ -12,7 +12,7 @@
 🌱 Tambien tengo conocimiento en redes, seguridad informática y buenas prácticas en desarrollo.    
 📄 Mira mi CV (link)
 
-✉️ Podés contactarme en 
+✉️ Podés contactarme en **rodrigo.pereira@outlook.es** o en mi <a href="https://www.linkedin.com/in/rodrigonicpereira" target="_blank">**Linkedin**<a/>
   <a href="https://www.linkedin.com/in/rodrigonicpereira" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>

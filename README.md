@@ -4,11 +4,11 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1rMGN6NTd1aXB5bzE5OXU1MTc3dTZxbGlkYTU5MjQ5NG9sMmRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-- 🎓Técnico en Desarrollo Web egresado de la Universidad Nacional de La Matanza(2024).
+- 🎓Técnico en Desarrollo Web egresado de la Universidad <br> Nacional de La Matanza(2024).
 
-- 💻 <strong>Full Stack Developer</strong> con experiencia en <strong>React, Angular, Node.js, Java <br> y .NET </strong>
+- 💻 <strong>Full Stack Developer</strong> con experiencia en <strong>React, Angular, Node.js, Java y .NET </strong>
 
-- 💡 Apasionado por el desarrollo de software (back-end), bases de datos y <br> diseño de soluciones.
+- 💡 Apasionado por el desarrollo de software (back-end), <br> bases de datos y diseño de soluciones.
 
 - 📝 Podes ver mi [**CV**](https://drive.google.com/file/d/1tWHmxpAz8Jfz1B-NkxF6U3rNkeubIvPG/view?usp=sharing), ademas contactarme en <strong>rodrigo.pereira@outlook.es</strong><br> o en mi [**Linkedin**](https://www.linkedin.com/in/rodrigonicpereira)
 

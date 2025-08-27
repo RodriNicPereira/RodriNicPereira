@@ -18,10 +18,9 @@
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
 </p>
 
-## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=RodriNicPereira&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RodriNicPereira&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriNicPereira&theme=tokyonight&layout=compact)
+## Mis estadisticas🚀
+![RodriNicPereira github estadisticas](https://github-readme-stats.vercel.app/api?username=RodriNicPereira&show_icons=true&theme=tokyonight)
+![RodriNicPereira Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriNicPereira&theme=tokyonight&layout=compact)
 <!--
 **RodriNicPereira/RodriNicPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

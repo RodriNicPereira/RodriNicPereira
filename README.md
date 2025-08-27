@@ -44,10 +44,18 @@
 </p>
 
 ## Mis estadisticas🚀
+
 ![RodriNicPereira github estadisticas](https://github-readme-stats.vercel.app/api?username=RodriNicPereira&show_icons=true&theme=tokyonight)
 ![RodriNicPereira Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=RodriNicPereira&theme=tokyonight&layout=compact)
 
-
+<p align="center">
+  <a href="https://github.com/GonzaSalda">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RodriNicPereira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/GonzaSalda">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RodriNicPereira&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ## Databases and Cloud hosting
 

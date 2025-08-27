@@ -10,7 +10,7 @@
 
 - 💡 Apasionado por el desarrollo de software (back-end), <br> bases de datos y diseño de soluciones.
 
-- 📝 Podes ver mi [**CV**](https://drive.google.com/file/d/1tWHmxpAz8Jfz1B-NkxF6U3rNkeubIvPG/view?usp=sharing), ademas contactarme en <strong>rodrigo.pereira@outlook.es</strong><br> o en mi [**Linkedin**](https://www.linkedin.com/in/rodrigonicpereira)
+- 📝 Podes ver mi [**CV**](https://drive.google.com/file/d/1tWHmxpAz8Jfz1B-NkxF6U3rNkeubIvPG/view?usp=sharing), ademas contactarme en <strong>[e-mail](mailto:rodrigo.pereira@outlook.es)</strong><br> o en mi [**Linkedin**](https://www.linkedin.com/in/rodrigonicpereira)
 
 ---
 

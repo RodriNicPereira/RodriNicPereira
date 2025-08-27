@@ -10,15 +10,10 @@
 💻 **Full Stack Developer** con experiencia en **React, Angular, Node.js, Java y .NET**
 💡  Apasionado por el desarrollo de software (back-end), bases de datos y diseño de soluciones web.  
 🌱 Tambien tengo conocimiento en redes, seguridad informática y buenas prácticas en desarrollo.    
-📄 Mira mi CV (link)
+📄 
 
 ✉️ Podés contactarme en **rodrigo.pereira@outlook.es** o en mi <a href="https://www.linkedin.com/in/rodrigonicpereira" target="_blank">**Linkedin**<a/>
-  <a href="https://www.linkedin.com/in/rodrigonicpereira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rodrigo.pereira@outlook.es">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white" />
-  </a>
+
 
 
 

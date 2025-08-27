@@ -14,7 +14,8 @@
 
 ✉️ Podés contactarme en **rodrigo.pereira@outlook.es** o en mi <a href="https://www.linkedin.com/in/rodrigonicpereira" target="_blank">**Linkedin**<a/>
 
-
+<img height="200em"
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1rMGN6NTd1aXB5bzE5OXU1MTc3dTZxbGlkYTU5MjQ5NG9sMmRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  aling=rigth />
 
 
 ---

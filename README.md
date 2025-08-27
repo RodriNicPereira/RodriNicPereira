@@ -1,11 +1,6 @@
-# 👋 Hola, soy Rodrigo Pereira  
+<h1>👋 Hola, soy Rodrigo Pereira</h1> 
 
-
-
----
-
-## 🚀 Sobre mí
-  
+<h3>🚀 Sobre mí</h3>
 🎓 Técnico en Desarrollo Web egresado de la Universidad Nacional de La Matanza (2024).  
 💻 **Full Stack Developer** con experiencia en **React, Angular, Node.js, Java y .NET**.  
 💡  Apasionado por el desarrollo de software (back-end), bases de datos y diseño de soluciones web.  

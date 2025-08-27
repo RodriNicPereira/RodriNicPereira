@@ -4,8 +4,6 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1rMGN6NTd1aXB5bzE5OXU1MTc3dTZxbGlkYTU5MjQ5NG9sMmRqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
-<br>
-
 - 🎓Técnico en Desarrollo Web egresado de la Universidad Nacional de La Matanza(2024).
 
 - 💻 <strong>Full Stack Developer</strong> con experiencia en <strong>React, Angular, Node.js, Java <br> y .NET </strong>
